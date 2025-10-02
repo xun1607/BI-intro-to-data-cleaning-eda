@@ -1,7 +1,7 @@
 # BI-intro-to-data-cleaning-eda
 
 Kaggle Challenge to Learn cleaning data and analysing to make Business decision
-
+https://www.kaggle.com/datasets/walekhwatlphilip/intro-to-data-cleaning-eda-and-machine-learning/data
 📂 Project Structure
 bi.ipynb # Main Jupyter notebook with analysis and visualizations
 data/ # (Optional) Folder containing datasets if applicable
